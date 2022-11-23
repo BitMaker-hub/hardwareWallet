@@ -7,7 +7,7 @@ Planning to achieve an airgapped signing device at lower possible price
 ### ATTENTION! This project is still in developement and must be tested on tesnet
 
 
-![image](https://github.com/BitMaker-hub/orangePill/blob/master/IMAGES/agrimint4.jpg)
+![image](https://github.com/agrimint/hardwareWallet/blob/main/IMAGES/agrimint4.jpg)
 
 
 ## HW Specifictions
