@@ -12,7 +12,6 @@ Planning to achieve an airgapped signing device at lower possible price
 ## HW Specifictions
 - ESP32 TTGO-TDisplay
 
-
 ## Libraires
 - Main library -> <a href="https://www.arduino.cc/reference/en/libraries/ubitcoin/">uBitcoin</a>
 - TFT_eSPI
